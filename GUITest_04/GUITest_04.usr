@@ -36,12 +36,14 @@ Version=2023
 
 [TulipAddins]
 ActiveX=
+AgGrid=
 AI=
 Database=
 File Content=
 Insight=
 Windows Applications=
 TEA=
+UIGrid=
 Web=
 XML=
 
